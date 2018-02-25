@@ -1,0 +1,3 @@
+https://ethereum.stackexchange.com/questions/2376/what-does-each-genesis-json-parameter-mean
+https://www.udemy.com/blockchain-developer/learn/v4/t/lecture/8799106?start=0
+https://www.ethereum.org/token#full-coin-code
